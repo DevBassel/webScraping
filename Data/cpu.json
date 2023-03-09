@@ -1,0 +1,786 @@
+[
+    {
+        "id": 1,
+        "name": " AMD RYZEN 5 4650G (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600g-6-core-12-thread-max-boost-4-4-ghz-try-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "4100",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-4650g-only-build?limit=300 "
+    },
+    {
+        "id": 2,
+        "name": "AMD RYZEN 3 3100 4-Core 8-Thread (Max Boost 3.9 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-3-3100-4-core-8-thread-max-boost-3-9-ghz-2-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "1900",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-3-3100?limit=300 "
+    },
+    {
+        "id": 3,
+        "name": "AMD RYZEN 3 3200G 4-Core with Radeon RX Vega 8 Graphics (Max Boost 4.1 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-3-3200g-4-core-with-radeon-rx-vega-8-graphics-max-boost-4-1-ghz-2-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "1700",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-3-3200g-4-core-with-radeon-rx-vega-8-graphics-max-boost-4-1-ghz?limit=300 "
+    },
+    {
+        "id": 4,
+        "name": "AMD RYZEN 3 4300GE Quad-core 4-Core 8-Threads (Max Boost 4.0 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600g-6-core-12-thread-max-boost-4-4-ghz-try-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2350",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-3-4300ge-quad-core-4-core-8-threads-max-boost-4-0-ghz?limit=300 "
+    },
+    {
+        "id": 5,
+        "name": "AMD RYZEN 5 1600 AF 6-Core 12-Threads (Max Boost 3.6 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-2600-6-core-12-threads-max-boost-3-9-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "2600",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-1600-af-6-core-12-threads-max-boost-3-6-ghz?limit=300 "
+    },
+    {
+        "id": 6,
+        "name": "AMD RYZEN 5 2600 6-Core 12-Threads (Max Boost 3.9 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-2600-6-core-12-threads-max-boost-3-9-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "2700",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-2600?limit=300 "
+    },
+    {
+        "id": 7,
+        "name": "AMD RYZEN 5 3400G 4-Core 8-Threads with Radeon RX Vega 11 Graphics (Max Boost 4.2 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-3400g-4-core-8-threads-with-radeon-rx-vega-11-graphics-max-boost-4-2-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2799",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-3400g?limit=300 "
+    },
+    {
+        "id": 8,
+        "name": "AMD RYZEN 5 3500X 6-Core (Max Boost 4.1 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-3600-6-core-12-threads-max-boost-4-2-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "3000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-3500x?limit=300 "
+    },
+    {
+        "id": 9,
+        "name": "AMD RYZEN 5 3600 6-Core 12-Threads (Max Boost 4.2 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-3600-6-core-12-threads-max-boost-4-2-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "4500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-3600?limit=300 "
+    },
+    {
+        "id": 10,
+        "name": "AMD RYZEN 5 3600XT 6-Core 12-Threads (Max Boost 4.5 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-3600x-6-core-12-threads-max-boost-4-4-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "4400",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-3600xt?limit=300 "
+    },
+    {
+        "id": 11,
+        "name": "AMD RYZEN 5 5500 ZEN3 4.2GHz (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600-6-core-12-thread-max-boost-4-4-ghz-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "4500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-5500-4-2ghz?limit=300 "
+    },
+    {
+        "id": 12,
+        "name": "AMD RYZEN 5 5600 6-Core 12-Thread (Max Boost 4.4 GHz) (Only Build) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600-6-core-12-thread-max-boost-4-4-ghz-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5400",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-5600-6-core-12-thread-max-boost-4-4-ghz-only-build?limit=300 "
+    },
+    {
+        "id": 13,
+        "name": "AMD Ryzen 5 5600G 6-Core 12-Thread (Max Boost 4.4 GHz)BOX ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600-6-core-12-thread-max-boost-4-4-ghz-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "5300",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-5600g-6-core-12-thread-max-boost-4-4-ghz-box?limit=300 "
+    },
+    {
+        "id": 14,
+        "name": "AMD Ryzen 5 5600G 6-Core 12-Thread (Max Boost 4.4 GHz)TRY (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600g-6-core-12-thread-max-boost-4-4-ghz-try-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "5000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-5600g-6-core-12-thread-max-boost-4-4-ghz-try-only-build?limit=300 "
+    },
+    {
+        "id": 15,
+        "name": "AMD RYZEN 5 5600X 6-Core 12-Thread (Max Boost 4.6 GHz) (Only Build) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600-6-core-12-thread-max-boost-4-4-ghz-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "6500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-5600x-6-core-12-thread-max-boost-4-6-ghz-only-build?limit=300 "
+    },
+    {
+        "id": 16,
+        "name": "AMD Ryzen 5 PRO 5650G 6-Core 12-Thread (Max Boost 4.4 GHz) TRAY ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600-6-core-12-thread-max-boost-4-4-ghz-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "5500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-5-pro-5650g-6-core-12-thread-max-boost-4-4-ghz-tray?limit=300 "
+    },
+    {
+        "id": 17,
+        "name": "AMD Ryzen 7 2700X 8-Core 16-Threads (Max Boost 4.3 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-2700x-8-core-16-threads-max-boost-4-3-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "4150",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-2700x-8-core-16-threads-max-boost-4-3-ghz?limit=300 "
+    },
+    {
+        "id": 18,
+        "name": "AMD RYZEN 7 3700X 8-Core 16-Threads (Max Boost 4.4 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-4750g-8-core-16-threads-max-boost-4-4-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5699",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-3700x?limit=300 "
+    },
+    {
+        "id": 19,
+        "name": "AMD RYZEN 7 3800X 8-Core 16-Threads (Max Boost 4.5 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-4750g-8-core-16-threads-max-boost-4-4-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "6500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-3800x?limit=300 "
+    },
+    {
+        "id": 20,
+        "name": "AMD RYZEN 7 3800XT 8-Core 16-Threads (Max Boost 4.7 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-3800xt-8-core-16-threads-max-boost-4-7-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "7200",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-3800xt?limit=300 "
+    },
+    {
+        "id": 21,
+        "name": "AMD RYZEN 7 4750G 8-Core 16-Threads (Max Boost 4.4 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-5-5600g-6-core-12-thread-max-boost-4-4-ghz-try-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5499",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-4750g-8-core-16-threads-max-boost-4-4-ghz?limit=300 "
+    },
+    {
+        "id": 22,
+        "name": "AMD RYZEN 7 5700G 8-Core 16-Thread (Max Boost 4.6 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "7800",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-5700g-8-core-16-thread-max-boost-4-6-ghz-1?limit=300 "
+    },
+    {
+        "id": 23,
+        "name": "AMD RYZEN 7 5700X 8-Core 16-Thread (Max Boost 4.6 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "7350",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-5700x-8-core-16-thread-max-boost-4-6-ghz?limit=300 "
+    },
+    {
+        "id": 24,
+        "name": "AMD RYZEN 7 5750G 8-Core 16-Thread (Max Boost 4.6 GHz) TRY ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "7350",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-5750g-8-core-16-thread-max-boost-4-6-ghz-try?limit=300 "
+    },
+    {
+        "id": 25,
+        "name": "AMD RYZEN 7 5800X 3D 8-Core 16-Thread (Max Boost 4.7 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "11800",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-5800x-3d-8-core-16-thread-max-boost-4-7-ghz?limit=300 "
+    },
+    {
+        "id": 26,
+        "name": "AMD RYZEN 7 5800X 8-Core 16-Thread (Max Boost 4.7 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "9000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-5800x-8-core-16-thread-max-boost-4-7-ghz?limit=300 "
+    },
+    {
+        "id": 27,
+        "name": "AMD RYZEN 7 7700X 8-Core 16-Thread (Max Boost 5.4 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/7000/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "12500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-7-7700x-8-core-16-thread-max-boost-5-4-ghz?limit=300 "
+    },
+    {
+        "id": 28,
+        "name": "AMD RYZEN 9 3900X 12-Core 24-Threads (Max Boost 4.6 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-9-3950x-16-core-32-threads-max-boost-4-7-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "7500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-9-3900x-12-core-24-threads-max-boost-4-6-ghz?limit=300 "
+    },
+    {
+        "id": 29,
+        "name": "AMD RYZEN 9 3900XT 12-Core 24-Threads (Max Boost 4.7 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-9-3900xt-12-core-24-threads-max-boost-4-7-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "8800",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-9-3900xt-12-core-24-threads-max-boost-4-7-ghz?limit=300 "
+    },
+    {
+        "id": 30,
+        "name": "AMD RYZEN 9 3950X 16-Core 32-Threads (Max Boost 4.7 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-9-3950x-16-core-32-threads-max-boost-4-7-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "13500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-9-3950x?limit=300 "
+    },
+    {
+        "id": 31,
+        "name": "AMD RYZEN 9 5900X 12-Core 24-Thread (Max Boost 4.8 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-9-5950x-16-core-32-thread-max-boost-4-9-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "12500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-9-5900x?limit=300 "
+    },
+    {
+        "id": 32,
+        "name": "AMD RYZEN 9 5950X 16-Core 32-Thread (Max Boost 4.9 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-9-5950x-16-core-32-thread-max-boost-4-9-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "17000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-9-5950x?limit=300 "
+    },
+    {
+        "id": 33,
+        "name": "AMD Ryzen Threadripper 1920X 12-Core 24-Threads (Max Boost 4.0 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-1950x-16-core-32-threads-max-boost-4-0-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "5000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-1920x-12-core-24-threads-max-boost-4-0-ghz?limit=300 "
+    },
+    {
+        "id": 34,
+        "name": "AMD Ryzen Threadripper 1950X 16-Core 32-Threads (Max Boost 4.0 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-1950x-16-core-32-threads-max-boost-4-0-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "8000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-1950x-16-core-32-threads-max-boost-4-0-ghz?limit=300 "
+    },
+    {
+        "id": 35,
+        "name": "AMD Ryzen Threadripper 2920X 12-Core 24-Threads (Max Boost 4.3 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-2970wx-24-core-48-thread-max-boost-4-2-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "9000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-2920x-12-core-24-threads-max-boost-4-3-ghz?limit=300 "
+    },
+    {
+        "id": 36,
+        "name": "AMD Ryzen Threadripper 2950X 16-Core 32-Threads (Max Boost 4.4 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-2970wx-24-core-48-thread-max-boost-4-2-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "12000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-2950x-16-core-32-threads-max-boost-4-4-ghz?limit=300 "
+    },
+    {
+        "id": 37,
+        "name": "AMD Ryzen Threadripper 2970WX 24-Core 48-Thread (Max Boost 4.2 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-2970wx-24-core-48-thread-max-boost-4-2-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "18000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-2970wx?limit=300 "
+    },
+    {
+        "id": 38,
+        "name": "AMD Ryzen Threadripper 2990WX 32-Core 64-Threads (Max Boost 4.2 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-2970wx-24-core-48-thread-max-boost-4-2-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "38100",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-2990wx-32-core-64-threads-max-boost-4-2-ghz?limit=300 "
+    },
+    {
+        "id": 39,
+        "name": "AMD Ryzen Threadripper 3960X 24-Core 48-Threads (Max Boost 4.5 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-3990x-64-core-128-thread-max-boost-4-3-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "29000",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-3960x?limit=300 "
+    },
+    {
+        "id": 40,
+        "name": "AMD Ryzen Threadripper 3970X 32-Core 64-Threads (Max Boost 4.5 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-3990x-64-core-128-thread-max-boost-4-3-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "47800",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-3970x-32-core-64-threads-max-boost-4-5-ghz?limit=300 "
+    },
+    {
+        "id": 41,
+        "name": "AMD Ryzen Threadripper 3990X 64-Core 128-Thread (Max Boost 4.3 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/amd-ryzen-threadripper-3990x-64-core-128-thread-max-boost-4-3-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "68500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen-threadripper-3990x?limit=300 "
+    },
+    {
+        "id": 42,
+        "name": "AMD RYZEN5 7600X 6-Core 12-Thread (Max Boost 5.3 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/7000/amd-ryzen5-7600x-6-core-12-thread-max-boost-5-3-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "9500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen5-7600x-6-core-12-thread-max-boost-5-3-ghz?limit=300 "
+    },
+    {
+        "id": 43,
+        "name": "AMD RYZEN9 7900X 12-Core 24-Thread (Max Boost 5.6 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/7000/amd-ryzen9-7950x-16-core32-thread-max-boost-5-7-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "15799",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen9-7900x-12-core-24-thread-max-boost-5-6-ghz?limit=300 "
+    },
+    {
+        "id": 44,
+        "name": "AMD RYZEN9 7950X 16-Core32-Thread (Max Boost 5.7 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/amd/7000/amd-ryzen9-7950x-16-core32-thread-max-boost-5-7-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "21500",
+        "link": "https://www.elnekhelytechnology.com/cpu/amd-ryzen9-7950x-16-core32-thread-max-boost-5-7-ghz?limit=300 "
+    },
+    {
+        "id": 45,
+        "name": "Intel Core i3-10100 Comet Lake 4-Core 8-Thread (4.3 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i3-10100f-comet-lake-4-core-8-thread-4-3-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2000",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i3-10100?limit=300 "
+    },
+    {
+        "id": 46,
+        "name": "Intel Core i3-10100f Comet Lake 4-Core 8-Thread (4.3 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i3-10100f-comet-lake-4-core-8-thread-4-3-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "1550",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i3-10100f-comet-lake-4-core-8-thread-4-3-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 47,
+        "name": "Intel Core i3-10105f Comet Lake 4-Core 8-Thread (4.4 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/10105F/intel-core-i3-10105f-comet-lake-4-core-8-thread-4-4-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "1750",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i3-10105f-comet-lake-4-core-8-thread-4-4-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 48,
+        "name": "Intel Core i3-12100 Alder Lake 4-Cores 8-Threads ( 4.3 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i3-12100-alder-lake-4-cores-8-threads-4-3-ghz-turbo-1-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2800",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i3-12100-alder-lake-4-cores-8-threads-4-3-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 49,
+        "name": "Intel Core i3-9350K Coffee Lake 4-Core ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i3-9350k-coffee-lake-4-core-270x270.jpg",
+        "state": "In Stock",
+        "price": "1999",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i3-9350k-coffee-lake-4-core?limit=300 "
+    },
+    {
+        "id": 50,
+        "name": "Intel Core i5-10400 Comet Lake 6-Core 12-Thread (4.3 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-10400-comet-lake-6-core-12-thread-4-3-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2700",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-10400?limit=300 "
+    },
+    {
+        "id": 51,
+        "name": "Intel Core i5-10400F Comet Lake 6-Cores 12-Threads (4.3 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-10400f-comet-lake-6-cores-12-threads-4-3-ghz-turbo-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2700",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-10400f-comet-lake-6-cores-12-threads-4-3-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 52,
+        "name": "Intel Core i5-10600 Comet Lake 6-Core 12-Thread (4.8 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-10600-comet-lake-6-core-12-thread-4-8-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "4000",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-10600?limit=300 "
+    },
+    {
+        "id": 53,
+        "name": "Intel Core i5-10600K Comet Lake 6-Core 12-Thread (4.8 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-10600kf-comet-lake-6-core-12-thread-4-8-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "3700",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-10600k?limit=300 "
+    },
+    {
+        "id": 54,
+        "name": "INTEL CORE i5-10600KF Comet Lake 6-Core 12-Thread (4.8 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-10600kf-comet-lake-6-core-12-thread-4-8-ghz-turbo-1-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "3250",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-10600kf-comet-lake-6-core-12-thread-4-8-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 55,
+        "name": "Intel Core i5-11400 Rocket Lake 6-Cores 12-Threads ( 4.4 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-11400f-rocket-lake-6-cores-12-threads-4-4-ghz-turbo-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "4900",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-11400-rocket-lake-6-cores-12-threads-4-4-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 56,
+        "name": "Intel Core i5-11400F Rocket Lake 6-Cores 12-Threads ( 4.4 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-11400f-rocket-lake-6-cores-12-threads-4-4-ghz-turbo-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "3750",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-11400f-rocket-lake-6-cores-12-threads-4-4-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 57,
+        "name": "Intel Core i5-11600K Rocket Lake 6-Cores 12-Threads ( 4.9 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-11400f-rocket-lake-6-cores-12-threads-4-4-ghz-turbo-only-build-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5300",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-11600k-rocket-lake-6-cores-12-threads-4-9-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 58,
+        "name": "Intel Core i5-12400 Alder Lake 6-Cores 12-Threads ( 4.4 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i5-12400f-alder-lake-6-cores-12-threads-4-4-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "6200",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-12400-alder-lake-6-cores-12-threads-4-4-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 59,
+        "name": "Intel Core i5-12400F Alder Lake 6-Cores 12-Threads ( 4.4 GHz Turbo) (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i5-12400f-alder-lake-6-cores-12-threads-4-4-ghz-turbo-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "4999",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-12400f-alder-lake-6-cores-12-threads-4-4-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 60,
+        "name": "Intel Core i5-12600K Alder Lake 10-Cores 16-Threads ( 4.9 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i5-13600kf-alder-lake-14-cores-20-threads-5-1-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "6500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-12600k-alder-lake-10-cores-16-threads-4-9-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 61,
+        "name": "Intel Core i5-12600Kf Alder Lake 10-Cores 16-Threads ( 4.9 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i5-13600kf-alder-lake-14-cores-20-threads-5-1-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5900",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-12600kf-alder-lake-10-cores-16-threads-4-9-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 62,
+        "name": "Intel Core i5-13400F Alder Lake 10-Cores 16-Threads ( 4.6 GHz Turbo) (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/AAAQNAP%20TS-932PX-4G%20TOWER/DELL/intel-core-i5-13500-alder-lake-14-cores-20-threads-4-8-ghz-turbo-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "6999",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-13400f-alder-lake-10-cores-16-threads-4-6-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 63,
+        "name": "Intel Core i5-13500 Alder Lake 14-Cores 20-Threads ( 4.8 GHz Turbo) (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/AAAQNAP%20TS-932PX-4G%20TOWER/DELL/intel-core-i5-13500-alder-lake-14-cores-20-threads-4-8-ghz-turbo-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "9200",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-13500-alder-lake-14-cores-20-threads-4-8-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 64,
+        "name": "Intel Core i5-13600K Alder Lake 14-Cores 20-Threads ( 5.1 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/13th/intel-core-i5-13600k-alder-lake-14-cores-20-threads-5-1-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "12800",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-13600k-alder-lake-14-cores-20-threads-5-1-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 65,
+        "name": "Intel Core i5-13600KF Alder Lake 14-Cores 20-Threads ( 5.1 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/13th/intel-core-i5-13600kf-alder-lake-14-cores-20-threads-5-1-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "11000",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-13600kf-alder-lake-14-cores-20-threads-5-1-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 66,
+        "name": "Intel Core i5-9400 Coffee Lake 6-Core 2.9 GHz (4.1 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-9400-coffee-lake-6-core-2-9-ghz-4-1-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "3250",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-9400?limit=300 "
+    },
+    {
+        "id": 67,
+        "name": "Intel Core i5-9400F Coffee Lake 6-Core 2.9 GHz (4.1 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-9400f-coffee-lake-6-core-2-9-ghz-4-1-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "2800",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-9400f?limit=300 "
+    },
+    {
+        "id": 68,
+        "name": "Intel Core i5-9600K Coffee Lake 6-Core 3.7 GHz (4.6 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i5-9600k-coffee-lake-6-core-3-7-ghz-4-6-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "3850",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-9600k?limit=300 "
+    },
+    {
+        "id": 69,
+        "name": "Intel Core i5-9600KF Coffee Lake 6-Core ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/Intel/intel-core-i5-9600kf-coffee-lake-6-core-270x270.jpg",
+        "state": "In Stock",
+        "price": "3999",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i5-9600kf-coffee-lake-6-core?limit=300 "
+    },
+    {
+        "id": 70,
+        "name": "Intel Core i7-10700 Comet Lake 8-Cores 16-Threads (4.8 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-11700-rocket-lake-8-cores-16-threads-4-9-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5400",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-10700?limit=300 "
+    },
+    {
+        "id": 71,
+        "name": "Intel Core i7-10700K Comet Lake 8-Cores 16-Threads (5.1 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-10700kf-comet-lake-8-cores-16-threads-5-1-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5900",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-10700k?limit=300 "
+    },
+    {
+        "id": 72,
+        "name": "Intel Core i7-10700KF Comet Lake 8-Cores 16-Threads (5.1 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-10700kf-comet-lake-8-cores-16-threads-5-1-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5000",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-10700kf-comet-lake-8-cores-16-threads-5-1-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 73,
+        "name": "Intel Core i7-11700 Rocket Lake 8-Cores 16-Threads (4.9 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-11700k-rocket-lake-8-cores-16-threads-5-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "10700",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-11700-rocket-lake-8-cores-16-threads-4-9-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 74,
+        "name": "Intel Core i7-11700F Rocket Lake 8-Cores 16-Threads (4.9 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-11700k-rocket-lake-8-cores-16-threads-5-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "4900",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-11700f-rocket-lake-8-cores-16-threads-4-9-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 75,
+        "name": "Intel Core i7-11700k Rocket Lake 8-Cores 16-Threads (5 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-11700k-rocket-lake-8-cores-16-threads-5-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "10900",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-11700k-rocket-lake-8-cores-16-threads-5-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 76,
+        "name": "Intel Core i7-12700 Alder Lake 12-Cores 20-Threads ( 4.9 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i7-13700kf-alder-lake-16-cores-24-threads-5-3-ghz-turbo-only-build-270x270.png",
+        "state": "In Stock",
+        "price": "11800",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-12700-alder-lake-12-cores-20-threads-4-9-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 77,
+        "name": "Intel Core i7-12700F Alder Lake 12-Cores 20-Threads ( 4.9 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i7-13700kf-alder-lake-16-cores-24-threads-5-3-ghz-turbo-only-build-270x270.png",
+        "state": "In Stock",
+        "price": "11300",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-12700f-alder-lake-12-cores-20-threads-4-9-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 78,
+        "name": "Intel Core i7-12700K Alder Lake 12-Cores 20-Threads ( 5.0 GHz Turbo) (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i7-12700kf-alder-lake-12-cores-20-threads-5-0-ghz-turbo-only-build-270x270.png",
+        "state": "Out Of Stock",
+        "price": "13000",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-12700k-alder-lake-12-cores-20-threads-5-0-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 79,
+        "name": "Intel Core i7-12700KF Alder Lake 12-Cores 20-Threads ( 5.0 GHz Turbo) (ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/intel-core-i7-12700kf-alder-lake-12-cores-20-threads-5-0-ghz-turbo-only-build-270x270.png",
+        "state": "In Stock",
+        "price": "12800",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-12700kf-alder-lake-12-cores-20-threads-5-0-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 80,
+        "name": "Intel Core i7-13700K Alder Lake 16-Cores 24-Threads ( 5.3 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/13th/intel-core-i7-13700k-alder-lake-16-cores-24-threads-5-3-ghz-turbo-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "15100",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-13700k-alder-lake-16-cores-24-threads-5-3-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 81,
+        "name": "Intel Core i7-13700KF Alder Lake 16-Cores 24-Threads ( 5.3 GHz Turbo)(ONLY BUILD) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/13th/intel-core-i7-13700kf-alder-lake-16-cores-24-threads-5-3-ghz-turbo-only-build-270x270.jpg",
+        "state": "In Stock",
+        "price": "14500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-13700kf-alder-lake-16-cores-24-threads-5-3-ghz-turbo-only-build?limit=300 "
+    },
+    {
+        "id": 82,
+        "name": "Intel Core i7-7800X X-series Processor 6-Cores 12-Threads (4.00 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/7800X/intel-core-i7-7820x-x-series-processor-8-cores-16-threads-4-30-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "6500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-7800x-x-series-processor-6-cores-12-threads-4-00-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 83,
+        "name": "Intel Core i7-7820X X-series Processor 8-Cores 16-Threads (4.30 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/7800X/intel-core-i7-7820x-x-series-processor-8-cores-16-threads-4-30-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "7000",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-7820x-x-series-processor-8-cores-16-threads-4-30-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 84,
+        "name": "Intel Core i7-9700 Coffee Lake 8-Core 3.0 GHz (4.7 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-9700-coffee-lake-8-core-3-0-ghz-4-7-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "5400",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-9700?limit=300 "
+    },
+    {
+        "id": 85,
+        "name": "Intel Core i7-9700K Coffee Lake 8-Core 3.6 GHz (4.9 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i7-9700k-coffee-lake-8-core-3-6-ghz-4-9-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "6500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i7-9700k?limit=300 "
+    },
+    {
+        "id": 86,
+        "name": "Intel Core i9-10850K Comet Lake 10-Cores 20-Threads (5.2 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-10850k-comet-lake-10-cores-20-threads-5-2-ghz-turbo-270x270.jpg",
+        "state": "In Stock",
+        "price": "7500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-10850k?limit=300 "
+    },
+    {
+        "id": 87,
+        "name": "Intel Core i9-10900 Comet Lake 10-Cores 20-Threads (5.2 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-10900-comet-lake-10-cores-20-threads-5-2-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "6500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-10900?limit=300 "
+    },
+    {
+        "id": 88,
+        "name": "Intel Core i9-10900K Avengers Edition Comet Lake 10-Cores 20-Threads (5.3 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-10900k-avengers-edition-comet-lake-10-cores-20-threads-5-3-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "9500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-10900k-avengers-edition?limit=300 "
+    },
+    {
+        "id": 89,
+        "name": "Intel Core i9-10900K Comet Lake 10-Cores 20-Threads (5.3 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-10900k-comet-lake-10-cores-20-threads-5-3-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "9500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-10900k?limit=300 "
+    },
+    {
+        "id": 90,
+        "name": "Intel Core i9-11900K Rocket Lake 8-Cores 16-Threads ( 5.30 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-11900k-rocket-lake-8-cores-16-threads-5-30-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "8999",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-11900k-rocket-lake-8-cores-16-threads-5-30-ghz-turbo?limit=300 "
+    },
+    {
+        "id": 91,
+        "name": "Intel Core i9-9900 Coffee Lake 8-Core, 16-Thread, 3.1 GHz (5.0 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-9900-coffee-lake-8-core-16-thread-3-1-ghz-5-0-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "7350",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-9900?limit=300 "
+    },
+    {
+        "id": 92,
+        "name": "Intel Core i9-9900K Coffee Lake 8-Core, 16-Thread, 3.6 GHz (5.0 GHz Turbo) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/intel-core-i9-9900k-coffee-lake-8-core-16-thread-3-6-ghz-5-0-ghz-turbo-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "8500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-9900k?limit=300 "
+    },
+    {
+        "id": 93,
+        "name": "Intel Core™ i9-12900F Processor 16 Cores / 24 Threads (30M Cache, up to 5.10 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/12th/12900F/intel-core-i9-12900f-processor-16-cores-24-threads-30m-cache-up-to-5-10-ghz-270x270.jpg",
+        "state": "Out Of Stock",
+        "price": "12400",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-12900f-processor-16-cores-24-threads-30m-cache-up-to-5-10-ghz?limit=300 "
+    },
+    {
+        "id": 94,
+        "name": "Intel Core™ i9-12900K Processor 16 Cores / 24 Threads (30M Cache, up to 5.20 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/Nasser/intel-core-i9-13900k-processor-24-cores-32-threads-36m-cache-up-to-5-8-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "17500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-12900k-processor-16-cores-24-threads-30m-cache-up-to-5-20-ghz?limit=300 "
+    },
+    {
+        "id": 95,
+        "name": "Intel Core™ i9-12900KF Processor 16 Cores / 24 Threads (30M Cache, up to 5.20 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/Nasser/intel-core-i9-13900k-processor-24-cores-32-threads-36m-cache-up-to-5-8-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "17300",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-12900kf-processor-16-cores-24-threads-30m-cache-up-to-5-20-ghz?limit=300 "
+    },
+    {
+        "id": 96,
+        "name": "Intel Core™ i9-13900K Processor 24 Cores / 32 Threads (36M Cache, up to 5.8 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/13th/intel-core-i9-13900k-processor-24-cores-32-threads-36m-cache-up-to-5-8-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "21500",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-13900k-processor-24-cores-32-threads-36m-cache-up-to-5-8-ghz?limit=300 "
+    },
+    {
+        "id": 97,
+        "name": "Intel Core™ i9-13900KF Processor 24 Cores / 32 Threads (36M Cache, up to 5.8 GHz) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/13th/intel-core-i9-13900kf-processor-24-cores-32-threads-36m-cache-up-to-5-8-ghz-270x270.jpg",
+        "state": "In Stock",
+        "price": "20999",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-core-i9-13900kf-processor-24-cores-32-threads-36m-cache-up-to-5-8-ghz?limit=300 "
+    },
+    {
+        "id": 98,
+        "name": "Intel Pentium Gold G6405 Processore 2-Core 4-Thread (4.10 GHz Base Frequency) ",
+        "img": "https://www.elnekhelytechnology.com/image/cache/catalog/CPU/Intel/G6405/intel-pentium-gold-g6405-processore-2-core-4-thread-4-10-ghz-base-frequency-270x270.jpg",
+        "state": "In Stock",
+        "price": "1200",
+        "link": "https://www.elnekhelytechnology.com/cpu/intel-pentium-gold-g6405-processore-2-core-4-thread-4-10-ghz-base-frequency?limit=300 "
+    }
+]
